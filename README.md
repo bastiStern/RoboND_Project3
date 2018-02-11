@@ -187,7 +187,7 @@ file = 'output_' + str(test_scene_num.data)
 
 #### World2 / Picklist2
 100% (5/5)
-![alt text][imaga2]
+![alt text][image2]
 
 #### World2 / Picklist2
 87.5% (7/8)
